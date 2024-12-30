@@ -26,3 +26,24 @@ Você pode acessar o site do projeto pelo link abaixo:
 
 [https://techfeeder.netlify.app](https://techfeeder.netlify.app)
 
+
+Here’s a concise English summary for your README:
+
+Techfeeder
+Techfeeder is a Final Year Project (TCC) developed during my studies at ETEC Raposo Tavares. Together with my team, we created an innovative solution for pet care, focusing on ensuring proper feeding during extended owner absences.
+
+Project Components
+Website: A web platform to manage system settings and monitor connected devices.
+Mobile App: A remote control application with real-time notifications.
+Hardware System: A physical device that automatically dispenses food for pets.
+Goal
+Simplify pet owners' routines by ensuring their pets are fed properly and on time, even when they're away.
+
+Technologies Used
+Web Development: HTML, CSS, JavaScript, PHP.
+Mobile Development: Kodular.
+Hardware: Arduino, Arduino IDE, C++.
+Demo
+Visit the project website:
+https://techfeeder.netlify.app
+
