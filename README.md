@@ -27,7 +27,8 @@ Você pode acessar o site do projeto pelo link abaixo:
 [https://techfeeder.netlify.app](https://techfeeder.netlify.app)
 
 
-Here’s a concise English summary for your README:
+
+### Here’s a concise English summary for your README:
 
 Techfeeder
 Techfeeder is a Final Year Project (TCC) developed during my studies at ETEC Raposo Tavares. Together with my team, we created an innovative solution for pet care, focusing on ensuring proper feeding during extended owner absences.
