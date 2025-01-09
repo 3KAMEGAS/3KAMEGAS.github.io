@@ -1,4 +1,5 @@
 # Techfeeder
+<img src="https://i.ibb.co/kXG25np/tech1.png" alt="img1">
 
 Techfeeder é um projeto de Trabalho de Conclusão de Curso (TCC) desenvolvido durante meus anos de estudo na **ETEC Raposo Tavares**. Junto com meus colegas, criamos uma solução inovadora voltada para a área de cuidados com pets. Nosso objetivo principal foi auxiliar na alimentação de animais de estimação durante longos períodos de ausência dos donos.
 
@@ -9,6 +10,8 @@ O projeto é composto por três elementos principais:
 1. **Site**: Uma plataforma web para gerenciar as configurações do sistema e acompanhar o status dos dispositivos conectados.
 2. **Aplicativo**: Um app móvel para controle remoto e notificações em tempo real.
 3. **Sistema de Hardware**: Um dispositivo físico integrado que realiza a distribuição automática de alimento para os pets.
+
+<img src="https://i.ibb.co/d4C8TJB/tech2.png" alt="img2">
 
 ## Objetivo
 
@@ -25,7 +28,7 @@ Facilitar a rotina dos tutores de animais, garantindo que seus pets sejam alimen
 Você pode acessar o site do projeto pelo link abaixo:
 
 [https://techfeeder.netlify.app](https://techfeeder.netlify.app)
-
+<img src="https://i.ibb.co/VwDR1SF/tec3.png" alt="img2">
 
 
 ### Here’s a concise English summary for your README:
