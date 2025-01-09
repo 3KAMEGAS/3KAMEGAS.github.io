@@ -28,7 +28,8 @@ Facilitar a rotina dos tutores de animais, garantindo que seus pets sejam alimen
 Você pode acessar o site do projeto pelo link abaixo:
 
 [https://techfeeder.netlify.app](https://techfeeder.netlify.app)
-<img src="https://i.ibb.co/VwDR1SF/tec3.png" alt="img2">
+
+<img src="https://i.ibb.co/VwDR1SF/tec3.png" alt="img3">
 
 
 ### Here’s a concise English summary for your README:
