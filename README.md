@@ -1,5 +1,5 @@
 # Techfeeder
-<img src="https://i.ibb.co/kXG25np/tech1.png" alt="img1">
+<img src="https://i.ibb.co/tmhPCW6/SLIDES-33-Solu-o.png" alt="img1">
 
 Techfeeder é um projeto de Trabalho de Conclusão de Curso (TCC) desenvolvido durante meus anos de estudo na **ETEC Raposo Tavares**. Junto com meus colegas, criamos uma solução inovadora voltada para a área de cuidados com pets. Nosso objetivo principal foi auxiliar na alimentação de animais de estimação durante longos períodos de ausência dos donos.
 
